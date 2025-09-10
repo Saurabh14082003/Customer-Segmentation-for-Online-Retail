@@ -35,19 +35,6 @@ This project focuses on **customer segmentation** using an online retail dataset
 - Matplotlib / Seaborn – Visualization  
 - Scikit-learn – Clustering and segmentation  
 
----
-
-## 🚀 How to Run
-1. Clone the repository:  
-   git clone https://github.com/yourusername/Customer_Segmentation_Online_Retail.git  
-
-2. Install dependencies:  
-   pip install -r requirements.txt  
-
-3. Open Jupyter Notebook:  
-   jupyter notebook Customer_Segmentation_Online_Retail.ipynb  
-
-4. Run the cells step by step.  
 
 ---
 
